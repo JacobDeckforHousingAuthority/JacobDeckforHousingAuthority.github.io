@@ -19,7 +19,7 @@ export const CONTENT = {
 
 	why: {
 		heading: "Why I'm Running",
-		greetings: `My name is <span id="name">Jacob Deck</span>. `,
+		greetings: `Hi! I'm <span id="name">Jacob Deck</span>. `,
 		intro: `Arlingtonians are facing enormous challenges. Fascists in the federal
 government are working overtime to make it as difficult as possible for
 us to protect our most vulnerable residents. They assume that we're too
