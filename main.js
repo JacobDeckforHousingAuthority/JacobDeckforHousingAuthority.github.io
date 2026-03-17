@@ -90,7 +90,7 @@ items that are cheaper to buy in bulk.`,
 	blog: {
 		heading: "Come Say Hi",
 		intro: `Have questions? Why not ask in person? I'll be at the following
-events, <span class="Campaign-cta">wearing red</span>. Be sure to stop and say hi.`,
+events, <span class="Campaign-cta">wearing red</span>. Be sure to stop by and say hi.`,
 		blueskyHeading: "Follow the Action",
 		blueskyNote: `Can't make it? Check out my campaign blog below or follow me on`,
 		blueskyHref: "https://bsky.app/profile/vote-4-jacob.bsky.social",
