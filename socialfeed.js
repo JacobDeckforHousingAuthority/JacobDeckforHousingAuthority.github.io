@@ -39,7 +39,7 @@ const CAMPAIGN_EVENTS = [
 		event: "Cusack Terrace Tenant Assoc. Meeting",
 		time: "6:00 PM",
 		address:
-			"https://www.google.com/maps/place/Robbins+Memorial+Town+Hall/@42.4159183,-71.1563489,17z/data=!3m1!4b1!4m6!3m5!1s0x89e376501b568d15:0xa6be507ef9200f0e!8m2!3d42.4159183!4d-71.1563489!16s%2Fg%2F1v1vf601?entry=ttu",
+			"https://www.google.com/maps/place/Cusack+Terrace/@42.4191301,-71.1531098,19z/data=!4m6!3m5!1s0x89e3765bb914cf17:0x795ef9069ee5e2e4!8m2!3d42.4190776!4d-71.1525614!16s%2Fg%2F11bzrfx981!5m1!1e2?entry=ttu",
 	},
 ];
 
