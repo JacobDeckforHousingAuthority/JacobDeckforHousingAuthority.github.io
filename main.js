@@ -10,7 +10,7 @@ import {
 /** INFO: campaign text content here */
 export const CONTENT = {
 	nav: {
-		logoAriaLabel: "Jacob Deck for Housing Authority",
+		logoAriaLabel: "Jacob Henry Deck for Housing Authority",
 		links: [
 			{ href: "#about", text: "Why I'm Running" },
 			{ href: "#blog", text: "Come Say Hi" },
@@ -31,43 +31,39 @@ comfortable to push back. They're wrong.`,
 		{
 			id: "dialog-housing",
 			title: "I'll Show Up",
-			summary: `My opponent missed four housing authority meetings last year. He also missed
-four meetings the year before that. I won't.`,
-			detail: `My opponent missed four housing authority meetings last year. He also missed
-four meetings the year before that. I won't.`,
+			summary: `My opponent missed more than six months of board meetings over the past two years. I won't.`,
+			detail: `Nicolas Mitropoulos keeps missing board meetings. He missed four AHA meetings last year, and four the year before that. AHA tenants present and future
+			deserve someone with a "B"-grade attendance record. They'll get one.`,
 		},
 		{
 			id: "dialog-budget",
 			title: "Tenant Protections",
-			summary: `Ensure that all current tenants in public housing in Arlington maintain their
-rights as public housing tenants under state law.`,
-			detail: `The current plans for redeveloping the Drake Village property owned by AHA will
-result in the 70+ tenants that live there losing their rights as public housing
-tenants, including rights to go through an official grievance process when
-reporting maintenance or other issues, and the right to join tenant's unions.
-Enough people are losing their rights these days. There has to be a way to
-redevelop the land without depriving longtime tenants of theirs.`,
+			summary: `Ensure that AHA tenants get everything they're owed by the state.`,
+			detail: `Public housing tenants have ironclad legal rights that regular appartment dwellers don't. These rights protect them from pollutants, allow them to own pets, 
+			protect their rights to organize, and require the state to fund cultural and social events in their buildings. Right now, tenants in our housing authority buildings are 
+			missing out on grant funding, loosing their ability to own pets, and are becoming increasingly cynical about everything else. It's time to change that.
+			
+			An easy fix is assuring that building tennant assosciations are legally recognized. Social and cultural grants can't be issued to a building unless that building has an offical tennant's organization.
+			With a little elbow grease, we can make sure that every AHA development has an official tennant authority that start recieving grant money.`,
 		},
 		{
 			id: "dialog-green",
 			title: "Housing Availability",
-			summary: `Expand the supply of public housing, especially for families (five-year
-waitlist!), subsidized by the construction of market-rate units.`,
+			summary: `Let's build the first new units of public housing in Arlington in 50 years — and fully integrate and subsidize them with market-rate units.`,
 			detail: `There's currently a five-year waiting list for affordable family housing in Arlington.
 With draconian laws, budget crunches, and political violence threatening the ability
-of young families to live in other parts of the United States, our consciences demand
-we open our doors as widely as possible here in Arlington.
+of young families to live in other parts of the United States, our consciences (and school budgets!) demand
+we open our doors as widely as possible to families here in Arlington.
 
-Once upon a time, we Arlingtonians stepped up when the young families of World War
-Two and Korean War veterans were being shut out of living here and built them entire
+Once upon a time, We Arlingtonians stepped up when young families were being shut out of living here. We built them an entire
 neighborhoods' worth of places to live. It's our duty as a town to respond to our
-present humanitarian and housing crisis with just as much determination.
+present crisis with just as much construction. The current redevelopment
+plan for Drake Village is a great start. Let's keep going. 
 
-This time, we won't be able to count on state or federal money to do so, so we'll have
-to finance it ourselves — by renting some units in the new developments out at market
-rates. This is a model, proven in cities like Vienna for 100 years, which not only
-ensures that the new developments will pay for themselves, but will also ensure that
-they stay clean, maintained, and renovated.`,
+We won't repeat the mistakes of the 1950s, either. This time, by renting some units in the new developments out at market
+rates, we'll make the whole AHA less reliant on state and federal funds to operate and less easy politically to ignore. As a bonus we'll
+make sure that our most vulnerable families and seniors are truly integrated into the Arlington community instead of isolated
+from it. Other towns and cities around the world have proved that this public housing model works. Let's roll up our sleeves and get to work.`,
 		},
 		{
 			id: "dialog-voice",
@@ -75,13 +71,13 @@ they stay clean, maintained, and renovated.`,
 			summary: `Pursue efficiencies across other housing authorities by signing bigger contracts
 for windows, doors, HVAC supplies, etc.`,
 			detail: `I'm overjoyed by the cross-agency work the housing authority is doing to share HR
-and other staff with other local housing authorities. Let's expand that.
+and other staff with other local housing authorities. Let's expand it.
 
 When Arlington worked together with Watertown, Everett, and 11 other municipalities
 to jointly purchase bus and bike lane paint, we saved over two million dollars between
 us just by signing one big contract instead of 13 small ones. Let's repeat that
 success, and deepen the collaboration between the housing authorities currently sharing
-an HR department by signing collective contracts for landscaping services, routine
+an HR department. We can, together, sign collective contracts for landscaping services, routine
 maintenance work, electrical equipment, windows, doors, paint, solar panels, and other
 items that are cheaper to buy in bulk.`,
 		},
